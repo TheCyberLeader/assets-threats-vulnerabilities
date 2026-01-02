@@ -768,11 +768,8 @@ This log analysis capability supports continuous monitoring and detection of una
 This portfolio showcases competencies essential for cybersecurity leadership roles requiring both technical depth and governance perspective. The projects demonstrate the ability to conduct comprehensive security assessments, apply industry frameworks, quantify risk for decision-making, and communicate technical findings to business stakeholders. These skills directly support enterprise security program development, risk management, compliance, and strategic security planning.
 
 ---
-
 ## 🔗 Navigation
 
-[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
+[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=TheCyberLeader-assets-threats-vulnerabilities&icon=0&color=0)](https://visitcount.itsvg.in)
